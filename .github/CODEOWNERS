@@ -1,0 +1,10 @@
+# Code ownership and review assignment
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @tomaszhallek7-dotcom
+
+# Documentation
+*.md @tomaszhallek7-dotcom
+
+# GitHub configs
+.github/ @tomaszhallek7-dotcom
